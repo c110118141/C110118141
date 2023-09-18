@@ -50,7 +50,7 @@ Colons can be used to align columns.
 |zebra stripes|are neat|$1|
 
 There must be at least 3 dashes separating each header cell.<br>
-The outer pipes (|)are optional, and you don't need to make the<br>
+The outer pipes (|) are optional, and you don't need to make the<br>
 raw outer Markdown line up prettily. You can also use inline Markdown.
 |Markdown|Less|Pretty|
 |:--|:--|:--|
