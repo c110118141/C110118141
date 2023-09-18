@@ -3,22 +3,38 @@
 ##### Hi
 ![TEST](企鵝.gif "火爆企鵝")
 
-- [x] To do list
-- [] Number 1
-- [] Number 2
-- [] Number 3
 
-<!--
-**c110118141/C110118141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
-Here are some ideas to get you started:
+Strong emphasis, aka bold, witg **asterisks** or **underscores**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Combined emphasis with **astersiks and *underscores***.
+
+Strikethrough users two tildes. ~~Scratch this.~~
+
+---
+1. First ordered list item
+2. Another item
+    ..* Unordered sub-list.
+3. Actual numbers don't matter, just that it's a number
+    ..1. Orderded sub-list
+    ...2. 2nd
+
+---
+
+- [ ] To do list
+- [ ] 2nd things
+
+---
+python code
+```python=
+s = "Python syntax highlighting"
+print s
+```
+---
+javascript code
+```javascript=
+var s = "JavaScript syntax highlighting"
+alert(s);
+```
