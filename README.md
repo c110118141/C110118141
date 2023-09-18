@@ -18,7 +18,11 @@ Strikethrough users two tildes. ~~Scratch this.~~
     ..* Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number<br>
     ..1. Orderded sub-list<br>
-    ...2. 2nd
+    ...2. 2nd<br>
+4. And another item.<br>
+    ...* note 1<br>
+    ...* note 2<br>
+    *** note 3<br>
 
 ---
 
