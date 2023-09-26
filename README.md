@@ -72,4 +72,4 @@ raw outer Markdown line up prettily. You can also use inline Markdown.
 
 ![TEST6](img/4.gif "純屬娛樂")
 
-*有冒犯請告知*
+*有冒犯請告知，資源來自網路*
