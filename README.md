@@ -1,7 +1,7 @@
 # C110118141 吳健銘
 ### Hi
 ##### Hi
-![TEST](P.gif "有些企鵝...")
+![TEST](img/P.gif "有些企鵝...")
 
   
 Emphasis, aka *italics*, with *asterisks* or *underscores*.
@@ -60,5 +60,16 @@ raw outer Markdown line up prettily. You can also use inline Markdown.
 `小區塊字體'補'`
 
 ---
-![TEST2](O.gif "殺手企鵝")
+## 企鵝圖片，純屬娛樂
 
+![TEST2](img/O.gif "殺手企鵝")
+
+![TEST3](img/1.gif "純屬娛樂")
+
+![TEST4](img/2.gif "純屬娛樂")
+
+![TEST5](img/3.gif "純屬娛樂")
+
+![TEST6](img/4.gif "純屬娛樂")
+
+*有冒犯請告知*
