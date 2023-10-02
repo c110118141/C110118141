@@ -1,5 +1,5 @@
 # PERT圖
-[!PERT](img/PERT.png "PERT")
+![PERT](img/PERT.png "PERT")
 
 https://hackmd.io/@C110118141/rJyncy_x6
 
