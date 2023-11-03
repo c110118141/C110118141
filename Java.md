@@ -44,7 +44,7 @@ class CTriangle extends CShape{
 
 ```
 ---
-### 一個學生上0-10門課(好難)
+## 一個學生上0-10門課(好難)
 ```java=
 import java.util.ArrayList;
 import java.util.List;
